@@ -11,8 +11,6 @@ Application built on Django (including the Django REST Framework for API CRUD op
 ## Getting started
 1. Download the zip file provided and extract it.
 2. Folder Structure ```app -> backend, frontend```
-3. Extract the JSON data files,copy them to a folder 'data' and store them in 'backend' folder.
-4. Now the folder structure looks  ```app -> backend -> data```
 
 ## Run the application
 
