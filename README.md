@@ -34,3 +34,5 @@ Backend has been setup!
 Backend has been setup!
 
 The application is now running at [localhost:3000](http://localhost:3000). 
+
+#### Tested on Google Chrome.
