@@ -31,7 +31,7 @@ Backend has been setup!
 * Install the dependencies ```npm install```
 * Run this command to start the frontend development server: ```npm run start``` 
 
-Backend has been setup!
+Frontend has been setup!
 
 The application is now running at [localhost:3000](http://localhost:3000). 
 
